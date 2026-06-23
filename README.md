@@ -42,7 +42,7 @@ The current implementation focuses on simple connected **unicyclic** and **bicyc
 ```text
 .
 ├── notebooks/
-│   └── Unicyclic_and_Bicyclic_MDPI_paper_Implementation.ipynb
+│   └── Unicyclic_and_Bicyclic_Implementation.ipynb
 ├── outputs/
 │   ├── figures/
 │   ├── tables/
