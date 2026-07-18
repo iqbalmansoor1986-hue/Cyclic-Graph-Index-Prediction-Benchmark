@@ -6,12 +6,12 @@ authors:
     given-names: "Mansoor"
 repository-code: "https://github.com/iqbalmansoor1986-hue/Cyclic-Graph-Index-Prediction-Benchmark"
 url: "https://github.com/iqbalmansoor1986-hue/Cyclic-Graph-Index-Prediction-Benchmark"
-version: 1.0.0
-date-released: 2026-06-23
+version: "1.0.0"
+date-released: "2026-06-23"
 keywords:
-  - topological indices
-  - unicyclic graphs
-  - graph neural network
-  - bicyclic graphs
-  - graph regression
+  - "topological indices"
+  - "unicyclic graphs"
+  - "bicyclic graphs"
+  - "graph neural network"
+  - "graph regression"
 license: "MIT"
