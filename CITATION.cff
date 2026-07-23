@@ -1,17 +1,40 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it."
+message: "If you use this software or its experimental results, please cite this repository."
 title: "Cyclic Graph Index Prediction Benchmark"
+type: software
+
 authors:
   - family-names: "Iqbal"
     given-names: "Mansoor"
+
 repository-code: "https://github.com/iqbalmansoor1986-hue/Cyclic-Graph-Index-Prediction-Benchmark"
 url: "https://github.com/iqbalmansoor1986-hue/Cyclic-Graph-Index-Prediction-Benchmark"
-version: "1.0.0"
-date-released: "2026-06-23"
+
+version: "1.1.0"
+date-released: "2026-07-23"
+
+abstract: >-
+  A reproducible computational benchmark for exact topological-index
+  labeling and machine-learning-based surrogate prediction across
+  unicyclic, bicyclic, circulant, and larger sparse-multicyclic graph
+  families. The repository includes controlled graph generation,
+  structure-preserving transformations, exact computation of six
+  classical topological indices, descriptor-based regression, graph
+  neural network models, transferability experiments, stress testing,
+  and graph-level and parent-aware data-partitioning protocols.
+
 keywords:
   - "topological indices"
   - "unicyclic graphs"
   - "bicyclic graphs"
-  - "graph neural network"
+  - "circulant graphs"
+  - "multicyclic graphs"
+  - "graph neural networks"
   - "graph regression"
+  - "graph isomorphism"
+  - "parent-aware splitting"
+  - "machine learning"
+  - "surrogate modeling"
+  - "computational graph theory"
+
 license: "MIT"
